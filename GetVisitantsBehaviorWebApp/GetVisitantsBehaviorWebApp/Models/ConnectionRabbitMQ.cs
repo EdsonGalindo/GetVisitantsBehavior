@@ -17,7 +17,7 @@ namespace GetVisitantsBehaviorWebApp.Models
         public string username = "guest";
         public string password = "guest";
         public string virtualHost = "/";
-        public string hostName = "locahost";
+        public string hostName = "localhost";
         public int port = 5672;
         public string exchangeName = "";
 
@@ -49,6 +49,7 @@ namespace GetVisitantsBehaviorWebApp.Models
 		public void OpenChannel()
         {
             channel = connection.CreateModel();
+            channel.QueueDeclare(routingKey, true, false, false, null);
         }
 
 		/// <summary>
@@ -57,7 +58,7 @@ namespace GetVisitantsBehaviorWebApp.Models
 		public void CloseChannel()
         {
             channel.Close();
-            channel.Close();
+            connection.Close();
         }
 
 		/// <summary>

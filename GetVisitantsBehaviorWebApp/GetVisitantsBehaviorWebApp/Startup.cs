@@ -33,6 +33,10 @@ namespace GetVisitantsBehaviorWebApp
 
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+            services.AddCors(options =>
+            {
+                options.AddPolicy("AllowMyOrigin", builder => builder.WithOrigins("localhost", "127.0.0.1"));
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -52,6 +56,7 @@ namespace GetVisitantsBehaviorWebApp
             app.UseHttpsRedirection();
             app.UseStaticFiles();
             app.UseCookiePolicy();
+            app.UseCors("AllowMyOrigin");
 
             app.UseMvc(routes =>
             {
@@ -59,6 +64,7 @@ namespace GetVisitantsBehaviorWebApp
                     name: "default",
                     template: "{controller=Home}/{action=Index}/{id?}");
             });
+
         }
     }
 }
