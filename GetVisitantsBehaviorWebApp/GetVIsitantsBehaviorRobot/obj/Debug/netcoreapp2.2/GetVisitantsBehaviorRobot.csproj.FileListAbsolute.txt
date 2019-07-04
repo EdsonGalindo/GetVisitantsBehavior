@@ -1,0 +1,12 @@
+C:\Users\edcg\source\repos\GetVisitantsBehavior\GetVisitantsBehaviorWebApp\GetVIsitantsBehaviorRobot\bin\Debug\netcoreapp2.2\GetVisitantsBehaviorRobot.deps.json
+C:\Users\edcg\source\repos\GetVisitantsBehavior\GetVisitantsBehaviorWebApp\GetVIsitantsBehaviorRobot\bin\Debug\netcoreapp2.2\GetVisitantsBehaviorRobot.runtimeconfig.json
+C:\Users\edcg\source\repos\GetVisitantsBehavior\GetVisitantsBehaviorWebApp\GetVIsitantsBehaviorRobot\bin\Debug\netcoreapp2.2\GetVisitantsBehaviorRobot.runtimeconfig.dev.json
+C:\Users\edcg\source\repos\GetVisitantsBehavior\GetVisitantsBehaviorWebApp\GetVIsitantsBehaviorRobot\bin\Debug\netcoreapp2.2\GetVisitantsBehaviorRobot.dll
+C:\Users\edcg\source\repos\GetVisitantsBehavior\GetVisitantsBehaviorWebApp\GetVIsitantsBehaviorRobot\bin\Debug\netcoreapp2.2\GetVisitantsBehaviorRobot.pdb
+C:\Users\edcg\source\repos\GetVisitantsBehavior\GetVisitantsBehaviorWebApp\GetVIsitantsBehaviorRobot\obj\Debug\netcoreapp2.2\GetVisitantsBehaviorRobot.csprojAssemblyReference.cache
+C:\Users\edcg\source\repos\GetVisitantsBehavior\GetVisitantsBehaviorWebApp\GetVIsitantsBehaviorRobot\obj\Debug\netcoreapp2.2\GetVisitantsBehaviorRobot.csproj.CoreCompileInputs.cache
+C:\Users\edcg\source\repos\GetVisitantsBehavior\GetVisitantsBehaviorWebApp\GetVIsitantsBehaviorRobot\obj\Debug\netcoreapp2.2\GetVisitantsBehaviorRobot.AssemblyInfoInputs.cache
+C:\Users\edcg\source\repos\GetVisitantsBehavior\GetVisitantsBehaviorWebApp\GetVIsitantsBehaviorRobot\obj\Debug\netcoreapp2.2\GetVisitantsBehaviorRobot.AssemblyInfo.cs
+C:\Users\edcg\source\repos\GetVisitantsBehavior\GetVisitantsBehaviorWebApp\GetVIsitantsBehaviorRobot\obj\Debug\netcoreapp2.2\GetVisitantsBehaviorRobot.dll
+C:\Users\edcg\source\repos\GetVisitantsBehavior\GetVisitantsBehaviorWebApp\GetVIsitantsBehaviorRobot\obj\Debug\netcoreapp2.2\GetVisitantsBehaviorRobot.pdb
+C:\Users\edcg\source\repos\GetVisitantsBehavior\GetVisitantsBehaviorWebApp\GetVIsitantsBehaviorRobot\bin\Debug\netcoreapp2.2\appsettings.json

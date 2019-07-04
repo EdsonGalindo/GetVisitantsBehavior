@@ -1,0 +1,110 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\edcg\\source\\repos\\GetVisitantsBehavior\\GetVisitantsBehaviorWebApp\\GetVIsitantsBehaviorRobot\\GetVisitantsBehaviorRobot.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\edcg\\source\\repos\\GetVisitantsBehavior\\GetVisitantsBehaviorWebApp\\GetVIsitantsBehaviorRobot\\GetVisitantsBehaviorRobot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\edcg\\source\\repos\\GetVisitantsBehavior\\GetVisitantsBehaviorWebApp\\GetVIsitantsBehaviorRobot\\GetVisitantsBehaviorRobot.csproj",
+        "projectName": "GetVisitantsBehaviorRobot",
+        "projectPath": "C:\\Users\\edcg\\source\\repos\\GetVisitantsBehavior\\GetVisitantsBehaviorWebApp\\GetVIsitantsBehaviorRobot\\GetVisitantsBehaviorRobot.csproj",
+        "packagesPath": "C:\\Users\\edcg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\edcg\\source\\repos\\GetVisitantsBehavior\\GetVisitantsBehaviorWebApp\\GetVIsitantsBehaviorRobot\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\edcg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "CouchbaseNetClient": {
+              "target": "Package",
+              "version": "[2.7.8, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.UserSecrets": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Nancy": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
